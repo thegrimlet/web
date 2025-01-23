@@ -33,4 +33,7 @@ a {
     background-color: cadetblue;
 }
 
-
+a:hover {
+    color: white;
+    background-color: black;
+}
