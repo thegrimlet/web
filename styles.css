@@ -13,7 +13,6 @@ figure{
     margin-left: 0px;
 }
 
-
 table, td, th {
     border: 1px solid black;
     border-collapse: collapse;
@@ -38,8 +37,20 @@ a {
     background-color: cadetblue;
 }
 
-
 a:hover {
     color: white;
     background-color: black;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+}
+
+.yellow {
+    background-color: gold;
+}
+
+.blue {
+    background-color: skyblue;
 }
